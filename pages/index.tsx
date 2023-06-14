@@ -1,4 +1,4 @@
-export const runtime = 'nodejs'
+export const runtime = 'edge'
 
 import { Stream } from "@cloudflare/stream-react";
 
