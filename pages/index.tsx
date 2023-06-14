@@ -1,3 +1,5 @@
+export const runtime = 'nodejs'
+
 import { Stream } from "@cloudflare/stream-react";
 
 export default function Home() {
